@@ -9,7 +9,7 @@ namespace BasisSeaShark
             string naam = "SeaShark";
             int leeftijd = 10;
 
-            Console.WriteLine($"Hallo wereld! Naam: {naam} Leeftijd: {leeftijd} jaar oud.");
+            Console.WriteLine($"Hallo wereld!\t Naam: {naam}\nLeeftijd: {leeftijd} jaar oud.");
             Console.ReadLine();
             
         }
