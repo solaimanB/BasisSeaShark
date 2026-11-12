@@ -1,10 +1,17 @@
-﻿namespace BasisSeaShark
+﻿using System;
+namespace BasisSeaShark
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            string naam = "SeaShark";
+            int leeftijd = 10;
+
+            Console.WriteLine($"Hallo wereld! Naam: {naam} Leeftijd: {leeftijd} jaar oud.");
+            Console.ReadLine();
+            
         }
     }
 }
