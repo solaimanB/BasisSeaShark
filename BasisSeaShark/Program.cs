@@ -11,7 +11,6 @@ namespace BasisSeaShark
 
             Console.WriteLine($"Hallo wereld!\t Naam: {naam}\nLeeftijd: {leeftijd} jaar oud.");
             Console.ReadLine();
-            
         }
     }
 }
