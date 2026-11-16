@@ -4,11 +4,8 @@
     {
         static void Main(string[] args)
         {
-            string s = "small";
-
             Console.WriteLine("1.small\r\n2.medium\r\n3.large\r\n");
             int keuze = int.Parse(Console.ReadLine());
-            string? invoer = Console.ReadLine();
             switch (keuze)
             {
                 case 1:
