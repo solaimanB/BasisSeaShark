@@ -2,4 +2,5 @@
   <Project Path="BasisSeaShark/BasisSeaShark.csproj" />
   <Project Path="Opdracht2/Opdracht2.csproj" />
   <Project Path="opdracht3/opdracht3.csproj" Id="654c8174-b51f-4235-9748-b6e8da13c56c" />
+  <Project Path="opdracht4/opdracht4.csproj" Id="c870cf42-21ab-4651-800b-483fa5a9a424" />
 </Solution>
